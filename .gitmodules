@@ -4,3 +4,6 @@
 [submodule "orders-microservice"]
 	path = orders-microservice
 	url = https://github.com/NestJS-Microservices-Course-2025/orders-microservice.git
+[submodule "products-microservice"]
+	path = products-microservice
+	url = https://github.com/NestJS-Microservices-Course-2025/products-microservice.git
