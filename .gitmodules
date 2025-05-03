@@ -1,0 +1,3 @@
+[submodule "client-gateway"]
+	path = client-gateway
+	url = https://github.com/NestJS-Microservices-Course-2025/client-gateway.git
