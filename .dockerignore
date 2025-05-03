@@ -1,0 +1,29 @@
+# Dependencias locales
+node_modules
+pnpm-lock.yaml.*
+
+# Salidas de compilación
+dist
+build
+
+# Archivos de configuración locales
+.env
+.env.*
+
+# Archivos temporales o del sistema
+*.log
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
+
+# Configs innecesarios para el contenedor
+.vscode
+.idea
+*.tgz
+coverage
+test
+
+# Git
+.git
+.gitignore
